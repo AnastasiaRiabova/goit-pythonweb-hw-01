@@ -64,5 +64,5 @@ vehicle3 = eu_factory.create_motorcycle("BMW", "R 12 S")
 vehicle3.start_engine()
 
 
-vehicle4 = eu_factory.create_motorcycle("Porsche", "911")
+vehicle4 = eu_factory.create_car("Porsche", "911")
 vehicle4.start_engine()
